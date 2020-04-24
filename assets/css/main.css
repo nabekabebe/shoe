@@ -1,3 +1,19 @@
+html,body{
+    height: 100%;
+}
 nav a{
     font-family: 'Oswald', sans-serif;
+}
+.clr{
+    background-color: #30445A;
+    color: white;
+}
+.bdy{
+    height:100%;
+}
+#bdy-color{
+    color: black;
+}
+.pd{
+    padding-top: 40px;
 }
